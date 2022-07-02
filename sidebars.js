@@ -51,6 +51,7 @@ const sidebars = {
         'functions',
         'ingamename',
         'unlockall',
+        'languages'
       ]
     },
     {
@@ -78,7 +79,7 @@ const sidebars = {
         'ranked',
         'antialiasing',
 	      'aimassist',
-        'fullbright',
+        'fullbright'
       ]
     },
   ],
